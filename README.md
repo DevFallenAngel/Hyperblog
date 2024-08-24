@@ -1,2 +1,3 @@
-# Hyperblog
-Un blog increíble para el curso de Git y Github de Platzi
+##HYPERBLOG
+
+*Este repositorio fue creado y es mantenido solo para propositos educativos.*
